@@ -1,0 +1,23 @@
+.background image {
+	background-image: url('Lab 9 Images/background image.jpg');
+	font-size: 6rem;
+	color: orange;
+	max-width: 50%;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 6rem;
+}	
+
+.heading {
+    font-family: impact;
+    text-align: center;
+    font-size: 4rem;
+    font color: #DC9788;
+}
+
+.body {
+	font-family: times new roman;
+	font color: white;
+	background-color: black; 
+} 
